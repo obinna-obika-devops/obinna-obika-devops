@@ -91,27 +91,6 @@ The operating model is consistent across the projects: **version changes, valida
 - **Create paved roads for developers** that improve velocity without bypassing operational or governance boundaries.
 - **Keep changes observable and reversible** so teams can detect problems quickly and recover safely.
 
-## Education & Technical Foundation
-
-### Universal Technical Institute (UTI) — Miramar, Florida
-**Automotive & Diesel Technology II · Graduated March 2025 · High Honors · GPA 3.74**
-
-Completed an intensive hands-on technical program spanning electrical systems, advanced electrical applications, hydraulics, braking systems, steering and suspension, drivetrain and transmissions, diesel engines, transport refrigeration, hybrid technology, performance diagnostics, and preventive maintenance.
-
-**Academic Recognition**
-- Student of the Course — **Advanced Electrical Applications**
-- Student of the Course — **Advanced Tech/Hybrid & Service Advising**
-- **High Honors** graduate
-- **Director’s List** recognition
-
-This hands-on engineering background reinforces the same approach I bring to cloud and platform systems: structured troubleshooting, understanding dependencies, preventive maintenance, root-cause thinking, safe change, and reliability-focused operations.
-
-### Additional Technical Certification
-**MACS Section 609 Certification** — Mobile Air Climate Systems Association, April 2025  
-Training in CFC-12, HFC-134a and HFO-1234yf refrigerant recycling and service procedures under Section 609 of the Clean Air Act.
-
-> Credential documents containing personal information are intentionally not published in this public repository. Verification can be provided when appropriate.
-
 ## Additional Engineering Work
 
 [Multi-Cloud Platform Engineering](https://github.com/obinna-obika-devops/multi-cloud-platform-engineering) · [Cloud Automation Engineering](https://github.com/obinna-obika-devops/cloud-automation-engineering) · [Cloud Networking Engineering](https://github.com/obinna-obika-devops/cloud-networking-engineering) · [Cloud Zero Trust Security](https://github.com/obinna-obika-devops/cloud-zero-trust-security) · [Cloud Migration Engineering](https://github.com/obinna-obika-devops/cloud-migration-engineering) · [Kubernetes Platform Operator](https://github.com/obinna-obika-devops/kubernetes-platform-operator)
