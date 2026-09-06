@@ -13,178 +13,23 @@
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
-
-  <header class="site-header">
-    <div class="container nav-wrap">
-      <a class="brand" href="#top" aria-label="Obinna Obika home">OO</a>
-      <nav class="nav" aria-label="Primary navigation">
-        <a href="#work">Selected Work</a>
-        <a href="#capabilities">Capabilities</a>
-        <a href="#principles">Approach</a>
-        <a href="#credentials">Credentials</a>
-        <a class="nav-cta" href="#contact">Contact</a>
-      </nav>
-    </div>
-  </header>
-
+  <header class="site-header"><div class="container nav-wrap"><a class="brand" href="#top" aria-label="Obinna Obika home">OO</a><nav class="nav" aria-label="Primary navigation"><a href="#work">Selected Work</a><a href="#capabilities">Capabilities</a><a href="#principles">Approach</a><a href="#credentials">Credentials</a><a class="nav-cta" href="#contact">Contact</a></nav></div></header>
   <main id="main">
-    <section class="hero" id="top">
-      <div class="container hero-grid">
-        <div>
-          <p class="eyebrow">Cloud · Platform · Reliability Engineering</p>
-          <h1>Obinna Obika</h1>
-          <p class="role-line">DevOps Engineer · Site Reliability Engineer · Platform Engineer · Cloud &amp; Infrastructure Engineer</p>
-          <p class="hero-copy">I design and automate cloud platforms with an emphasis on reliability, security, repeatability, observability and developer experience. My work spans infrastructure as code, Kubernetes, CI/CD, GitOps, platform automation, cloud operations and SRE practices.</p>
-          <div class="hero-actions">
-            <a class="button primary" href="#work">View selected work</a>
-            <a class="button secondary" href="https://github.com/obinna-obika-devops" target="_blank" rel="noopener">GitHub profile</a>
-          </div>
-        </div>
-        <aside class="focus-card" aria-label="Engineering focus">
-          <p class="card-kicker">Engineering focus</p>
-          <div class="focus-list">
-            <span>Cloud platforms</span>
-            <span>Infrastructure as Code</span>
-            <span>Kubernetes &amp; GitOps</span>
-            <span>CI/CD automation</span>
-            <span>Reliability engineering</span>
-            <span>DevSecOps controls</span>
-          </div>
-          <p class="focus-note">AWS · Azure · GCP · Terraform · Kubernetes · Python · Prometheus</p>
-        </aside>
-      </div>
-    </section>
-
-    <section class="section" id="work">
-      <div class="container">
-        <div class="section-heading">
-          <p class="eyebrow">Selected engineering work</p>
-          <h2>Systems, controls and automation</h2>
-          <p>Each project is a working engineering reference implementation with code, tests, CI validation and documented scope.</p>
-        </div>
-
-        <div class="project-grid">
-          <article class="project-card featured">
-            <div class="project-topline"><span>Platform Engineering</span><span>01</span></div>
-            <h3>Cloud Platform Engineering</h3>
-            <p>Self-service cloud platform patterns combining AWS EKS, Terraform, Kubernetes, Helm, GitOps, workload identity, policy controls and Prometheus instrumentation.</p>
-            <div class="tags"><span>AWS</span><span>EKS</span><span>Terraform</span><span>Argo CD</span><span>Prometheus</span></div>
-            <a href="https://github.com/obinna-obika-devops/cloud-platform-engineering" target="_blank" rel="noopener">View repository <span aria-hidden="true">↗</span></a>
-          </article>
-
-          <article class="project-card">
-            <div class="project-topline"><span>Infrastructure Delivery</span><span>02</span></div>
-            <h3>Infrastructure GitOps Engineering</h3>
-            <p>Infrastructure change-management workflow centered on Git, promotion controls, policy enforcement, drift detection, rollback planning and reproducible delivery.</p>
-            <div class="tags"><span>Terraform</span><span>Kubernetes</span><span>Kustomize</span><span>OPA</span><span>Python</span></div>
-            <a href="https://github.com/obinna-obika-devops/infrastructure-gitops-engineering" target="_blank" rel="noopener">View repository <span aria-hidden="true">↗</span></a>
-          </article>
-
-          <article class="project-card">
-            <div class="project-topline"><span>Developer Platform</span><span>03</span></div>
-            <h3>Platform Engineering Portal</h3>
-            <p>Catalog-backed self-service planning API and CLI that turns developer requests into validated provisioning plans with policy and approval boundaries.</p>
-            <div class="tags"><span>FastAPI</span><span>Python</span><span>Service Catalog</span><span>Golden Paths</span></div>
-            <a href="https://github.com/obinna-obika-devops/platform-engineering-portal" target="_blank" rel="noopener">View repository <span aria-hidden="true">↗</span></a>
-          </article>
-
-          <article class="project-card">
-            <div class="project-topline"><span>Reliability Engineering</span><span>04</span></div>
-            <h3>SRE Reliability Engineering Lab</h3>
-            <p>Reliability controls covering SLOs, telemetry, Prometheus rules, Kubernetes resilience, controlled fault injection, incident response and guarded remediation.</p>
-            <div class="tags"><span>SRE</span><span>Prometheus</span><span>Kubernetes</span><span>Python</span><span>SLOs</span></div>
-            <a href="https://github.com/obinna-obika-devops/sre-reliability-engineering-lab" target="_blank" rel="noopener">View repository <span aria-hidden="true">↗</span></a>
-          </article>
-
-          <article class="project-card">
-            <div class="project-topline"><span>Software Supply Chain</span><span>05</span></div>
-            <h3>DevSecOps Supply Chain Security</h3>
-            <p>Defense-in-depth delivery controls spanning secrets, dependencies, IaC, containers, SBOMs, keyless signing, policy-as-code and Kubernetes admission.</p>
-            <div class="tags"><span>Trivy</span><span>Checkov</span><span>Gitleaks</span><span>Cosign</span><span>Kyverno</span></div>
-            <a href="https://github.com/obinna-obika-devops/devsecops-supply-chain-security" target="_blank" rel="noopener">View repository <span aria-hidden="true">↗</span></a>
-          </article>
-
-          <article class="project-card">
-            <div class="project-topline"><span>Cloud Economics</span><span>06</span></div>
-            <h3>Cloud FinOps Cost Optimization</h3>
-            <p>Cloud cost engineering patterns for allocation, budgeting, forecasting, anomaly detection, rightsizing and governance using synthetic billing data.</p>
-            <div class="tags"><span>AWS</span><span>Terraform</span><span>Python</span><span>FinOps</span><span>Analytics</span></div>
-            <a href="https://github.com/obinna-obika-devops/cloud-finops-cost-optimization" target="_blank" rel="noopener">View repository <span aria-hidden="true">↗</span></a>
-          </article>
-        </div>
-      </div>
-    </section>
-
-    <section class="section alt" id="capabilities">
-      <div class="container">
-        <div class="section-heading compact">
-          <p class="eyebrow">Capabilities</p>
-          <h2>Engineering across the delivery lifecycle</h2>
-        </div>
-        <div class="capability-grid">
-          <div><h3>Cloud &amp; Infrastructure</h3><p>AWS, Microsoft Azure, Google Cloud Platform, Terraform, Linux, networking, IAM and environment design.</p></div>
-          <div><h3>Kubernetes &amp; GitOps</h3><p>Kubernetes, Helm, Argo CD, Kustomize, workload isolation, rollout controls, autoscaling and policy enforcement.</p></div>
-          <div><h3>CI/CD &amp; Automation</h3><p>GitHub Actions, Jenkins, Python, Bash, automated validation, release controls and repeatable operational workflows.</p></div>
-          <div><h3>SRE &amp; Observability</h3><p>Prometheus, Grafana, CloudWatch, SLOs, error budgets, alerting, incident response and recovery patterns.</p></div>
-          <div><h3>Platform Engineering</h3><p>Internal developer platforms, golden paths, service catalogs, self-service workflows and developer experience.</p></div>
-          <div><h3>Security Engineering</h3><p>Least privilege, RBAC, policy as code, image scanning, secrets detection, software supply-chain controls and signed artifacts.</p></div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section" id="principles">
-      <div class="container split">
-        <div class="section-heading compact">
-          <p class="eyebrow">Engineering approach</p>
-          <h2>Operational discipline built into delivery</h2>
-          <p>I prefer systems where the safe path is also the easy path: changes are versioned, validated early, observable after release and reversible when needed.</p>
-        </div>
-        <div class="principles">
-          <div><span>01</span><p><strong>Automate repeatable work.</strong> Reduce operational toil and remove avoidable manual steps.</p></div>
-          <div><span>02</span><p><strong>Treat infrastructure as software.</strong> Version, validate and review infrastructure changes.</p></div>
-          <div><span>03</span><p><strong>Design for failure.</strong> Use health checks, SLOs, fault testing and documented recovery paths.</p></div>
-          <div><span>04</span><p><strong>Build security into delivery.</strong> Enforce identity, policy and artifact integrity before runtime.</p></div>
-          <div><span>05</span><p><strong>Keep changes observable and reversible.</strong> Make failures easier to detect, understand and recover from.</p></div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section alt" id="credentials">
-      <div class="container credentials-wrap">
-        <div class="section-heading compact">
-          <p class="eyebrow">Credentials</p>
-          <h2>Cloud and DevOps certifications</h2>
-        </div>
-        <div class="credential-grid">
-          <div class="credential"><span>Microsoft</span><strong>DevOps Engineer Expert</strong></div>
-          <div class="credential"><span>Microsoft</span><strong>Azure Administrator Associate</strong></div>
-          <div class="credential"><span>AWS</span><strong>Solutions Architect – Associate</strong></div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section contact" id="contact">
-      <div class="container contact-grid">
-        <div>
-          <p class="eyebrow">Contact</p>
-          <h2>Open to engineering conversations</h2>
-          <p>For DevOps, SRE, platform, cloud and infrastructure engineering opportunities, the fastest way to review my work is through the repositories above.</p>
-        </div>
-        <div class="contact-actions">
-          <a class="button primary" href="mailto:bilolo74@gmail.com">Email</a>
-          <a class="button secondary" href="https://github.com/obinna-obika-devops" target="_blank" rel="noopener">GitHub</a>
-        </div>
-      </div>
-    </section>
+    <section class="hero" id="top"><div class="container hero-grid"><div><p class="eyebrow">Cloud · Platform · Reliability Engineering</p><h1>Obinna Obika</h1><p class="role-line">DevOps Engineer · Site Reliability Engineer · Platform Engineer · Cloud &amp; Infrastructure Engineer</p><p class="hero-copy">I design and automate cloud platforms with an emphasis on reliability, security, repeatability, observability and developer experience. My work spans infrastructure as code, Kubernetes, CI/CD, GitOps, platform automation, cloud operations and SRE practices.</p><div class="hero-actions"><a class="button primary" href="#work">View selected work</a><a class="button secondary" href="https://github.com/obinna-obika-devops" target="_blank" rel="noopener noreferrer">GitHub profile</a></div></div><aside class="focus-card" aria-label="Engineering focus"><p class="card-kicker">Engineering focus</p><div class="focus-list"><span>Cloud platforms</span><span>Infrastructure as Code</span><span>Kubernetes &amp; GitOps</span><span>CI/CD automation</span><span>Reliability engineering</span><span>DevSecOps controls</span></div><p class="focus-note">AWS · Azure · GCP · Terraform · Kubernetes · Python · Prometheus</p></aside></div></section>
+    <section class="section" id="work"><div class="container"><div class="section-heading"><p class="eyebrow">Selected engineering work</p><h2>Systems, controls and automation</h2><p>Each project is a working engineering reference implementation with code, tests, CI validation and documented scope.</p></div><div class="project-grid">
+      <article class="project-card featured"><div class="project-topline"><span>Platform Engineering</span><span>01</span></div><h3>Cloud Platform Engineering</h3><p>Self-service cloud platform patterns combining AWS EKS, Terraform, Kubernetes, Helm, GitOps, workload identity, policy controls and Prometheus instrumentation.</p><div class="tags"><span>AWS</span><span>EKS</span><span>Terraform</span><span>Argo CD</span><span>Prometheus</span></div><a href="https://github.com/obinna-obika-devops/cloud-platform-engineering" target="_blank" rel="noopener noreferrer">View repository <span aria-hidden="true">↗</span></a></article>
+      <article class="project-card"><div class="project-topline"><span>Infrastructure Delivery</span><span>02</span></div><h3>Infrastructure GitOps Engineering</h3><p>Infrastructure change-management workflow centered on Git, promotion controls, policy enforcement, drift detection, rollback planning and reproducible delivery.</p><div class="tags"><span>Terraform</span><span>Kubernetes</span><span>Kustomize</span><span>OPA</span><span>Python</span></div><a href="https://github.com/obinna-obika-devops/infrastructure-gitops-engineering" target="_blank" rel="noopener noreferrer">View repository <span aria-hidden="true">↗</span></a></article>
+      <article class="project-card"><div class="project-topline"><span>Developer Platform</span><span>03</span></div><h3>Platform Engineering Portal</h3><p>Catalog-backed self-service planning API and CLI that turns developer requests into validated provisioning plans with policy and approval boundaries.</p><div class="tags"><span>FastAPI</span><span>Python</span><span>Service Catalog</span><span>Golden Paths</span></div><a href="https://github.com/obinna-obika-devops/platform-engineering-portal" target="_blank" rel="noopener noreferrer">View repository <span aria-hidden="true">↗</span></a></article>
+      <article class="project-card"><div class="project-topline"><span>Reliability Engineering</span><span>04</span></div><h3>SRE Reliability Engineering Lab</h3><p>Reliability controls covering SLOs, telemetry, Prometheus rules, Kubernetes resilience, controlled fault injection, incident response and guarded remediation.</p><div class="tags"><span>SRE</span><span>Prometheus</span><span>Kubernetes</span><span>Python</span><span>SLOs</span></div><a href="https://github.com/obinna-obika-devops/sre-reliability-engineering-lab" target="_blank" rel="noopener noreferrer">View repository <span aria-hidden="true">↗</span></a></article>
+      <article class="project-card"><div class="project-topline"><span>Software Supply Chain</span><span>05</span></div><h3>DevSecOps Supply Chain Security</h3><p>Defense-in-depth delivery controls spanning secrets, dependencies, IaC, containers, SBOMs, keyless signing, policy-as-code and Kubernetes admission.</p><div class="tags"><span>Trivy</span><span>Checkov</span><span>Gitleaks</span><span>Cosign</span><span>Kyverno</span></div><a href="https://github.com/obinna-obika-devops/devsecops-supply-chain-security" target="_blank" rel="noopener noreferrer">View repository <span aria-hidden="true">↗</span></a></article>
+      <article class="project-card"><div class="project-topline"><span>Cloud Economics</span><span>06</span></div><h3>Cloud FinOps Cost Optimization</h3><p>Cloud cost engineering patterns for allocation, budgeting, forecasting, anomaly detection, rightsizing and governance using synthetic billing data.</p><div class="tags"><span>AWS</span><span>Terraform</span><span>Python</span><span>FinOps</span><span>Analytics</span></div><a href="https://github.com/obinna-obika-devops/cloud-finops-cost-optimization" target="_blank" rel="noopener noreferrer">View repository <span aria-hidden="true">↗</span></a></article>
+    </div></div></section>
+    <section class="section alt" id="capabilities"><div class="container"><div class="section-heading compact"><p class="eyebrow">Capabilities</p><h2>Engineering across the delivery lifecycle</h2></div><div class="capability-grid"><div><h3>Cloud &amp; Infrastructure</h3><p>AWS, Microsoft Azure, Google Cloud Platform, Terraform, Linux, networking, IAM and environment design.</p></div><div><h3>Kubernetes &amp; GitOps</h3><p>Kubernetes, Helm, Argo CD, Kustomize, workload isolation, rollout controls, autoscaling and policy enforcement.</p></div><div><h3>CI/CD &amp; Automation</h3><p>GitHub Actions, Jenkins, Python, Bash, automated validation, release controls and repeatable operational workflows.</p></div><div><h3>SRE &amp; Observability</h3><p>Prometheus, Grafana, CloudWatch, SLOs, error budgets, alerting, incident response and recovery patterns.</p></div><div><h3>Platform Engineering</h3><p>Internal developer platforms, golden paths, service catalogs, self-service workflows and developer experience.</p></div><div><h3>Security Engineering</h3><p>Least privilege, RBAC, policy as code, image scanning, secrets detection, software supply-chain controls and signed artifacts.</p></div></div></div></section>
+    <section class="section" id="principles"><div class="container split"><div class="section-heading compact"><p class="eyebrow">Engineering approach</p><h2>Operational discipline built into delivery</h2><p>I prefer systems where the safe path is also the easy path: changes are versioned, validated early, observable after release and reversible when needed.</p></div><div class="principles"><div><span>01</span><p><strong>Automate repeatable work.</strong> Reduce operational toil and remove avoidable manual steps.</p></div><div><span>02</span><p><strong>Treat infrastructure as software.</strong> Version, validate and review infrastructure changes.</p></div><div><span>03</span><p><strong>Design for failure.</strong> Use health checks, SLOs, fault testing and documented recovery paths.</p></div><div><span>04</span><p><strong>Build security into delivery.</strong> Enforce identity, policy and artifact integrity before runtime.</p></div><div><span>05</span><p><strong>Keep changes observable and reversible.</strong> Make failures easier to detect, understand and recover from.</p></div></div></div></section>
+    <section class="section alt" id="credentials"><div class="container credentials-wrap"><div class="section-heading compact"><p class="eyebrow">Credentials</p><h2>Cloud and DevOps certifications</h2></div><div class="credential-grid"><div class="credential"><span>Microsoft</span><strong>DevOps Engineer Expert</strong></div><div class="credential"><span>Microsoft</span><strong>Azure Administrator Associate</strong></div><div class="credential"><span>AWS</span><strong>Solutions Architect – Associate</strong></div></div></div></section>
+    <section class="section contact" id="contact"><div class="container contact-grid"><div><p class="eyebrow">Contact</p><h2>Open to engineering conversations</h2><p>For DevOps, SRE, platform, cloud and infrastructure engineering opportunities, connect with me directly or review my engineering work on GitHub.</p></div><div class="contact-actions"><a class="button primary" href="mailto:bilolo74@gmail.com" aria-label="Email Obinna Obika">Email</a><a class="button secondary" href="tel:+13127710557" aria-label="Call Obinna Obika">Call</a><a class="button secondary" href="https://www.linkedin.com/in/obinna-obika-devops" target="_blank" rel="noopener noreferrer" aria-label="Obinna Obika on LinkedIn">LinkedIn</a><a class="button secondary" href="https://github.com/obinna-obika-devops" target="_blank" rel="noopener noreferrer" aria-label="Obinna Obika on GitHub">GitHub</a></div></div></section>
   </main>
-
-  <footer>
-    <div class="container footer-wrap">
-      <span>© <span id="year"></span> Obinna Obika</span>
-      <span>DevOps · SRE · Platform · Cloud Engineering</span>
-    </div>
-  </footer>
-
+  <footer><div class="container footer-wrap"><span>© <span id="year"></span> Obinna Obika</span><span>DevOps · SRE · Platform · Cloud Engineering</span></div></footer>
   <script src="script.js"></script>
 </body>
 </html>
