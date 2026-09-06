@@ -12,6 +12,7 @@
   <a href="https://github.com/obinna-obika-devops"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github" alt="GitHub"></a>
   <a href="https://github.com/obinna-obika-devops?tab=repositories"><img src="https://img.shields.io/badge/Projects-Portfolio-2ea44f" alt="Projects"></a>
   <a href="https://github.com/obinna-obika-devops/bilolo"><img src="https://img.shields.io/badge/Portfolio-Bilolo-0969da" alt="Portfolio"></a>
+  <a href="https://github.com/obinna-obika-devops/bilolo/blob/main/docs/resume.md"><img src="https://img.shields.io/badge/Resume-Cloud%20%26%20Infrastructure-6f42c1" alt="Resume"></a>
 </p>
 
 ## About
@@ -31,6 +32,16 @@ My portfolio focuses on the full engineering lifecycle:
 - 🤖 **Automation:** Python tooling, event-driven remediation, infrastructure operations
 
 > **Engineering principle:** automate repeatable work, make failure observable, reduce blast radius, and design systems that are easier to operate.
+
+## Recruiter Snapshot
+
+**Target roles:** Cloud Engineer · Cloud Infrastructure Engineer · DevOps Engineer · SRE · Platform Engineer · Infrastructure Engineer · DevSecOps Engineer · Cloud Operations Engineer
+
+**Core stack:** AWS · Azure · Terraform · Kubernetes · Docker · Helm · GitHub Actions · GitOps · Python · Prometheus · Grafana · OpenTelemetry · Trivy · Gitleaks · Checkov · Kyverno · OPA/Rego
+
+**Engineering focus:** Infrastructure as Code · CI/CD · Platform Engineering · Reliability · Observability · Security · Cloud Networking · Automation · Disaster Recovery · FinOps
+
+👉 **[View recruiter-ready resume & project highlights](https://github.com/obinna-obika-devops/bilolo/blob/main/docs/resume.md)**
 
 ## Featured Engineering Work
 
@@ -188,6 +199,7 @@ Cost              → Engineer for efficiency
 
 - **GitHub:** [@obinna-obika-devops](https://github.com/obinna-obika-devops)
 - **Portfolio:** [bilolo](https://github.com/obinna-obika-devops/bilolo)
+- **Resume:** [Cloud & Infrastructure resume](https://github.com/obinna-obika-devops/bilolo/blob/main/docs/resume.md)
 
 ---
 
