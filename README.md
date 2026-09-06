@@ -1,199 +1,111 @@
-# Obinna Obika — Cloud & Infrastructure Engineer
+# Obinna Obika — DevOps | Cloud | Platform | SRE Engineer
 
 <p align="center">
-  <strong>Cloud & Infrastructure Engineering · DevOps · SRE · Platform Engineering · DevSecOps</strong>
+  <strong>Azure · AWS · Terraform · Kubernetes · GitHub Actions · GitOps · Python · Observability</strong>
 </p>
 
 <p align="center">
-  Designing reliable, secure, automated infrastructure and the platforms that help engineering teams ship with confidence.
+  Building secure, reliable cloud platforms with infrastructure as code, automated delivery, observability, and production-minded operations.
 </p>
 
 <p align="center">
-  <a href="https://github.com/obinna-obika-devops"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github" alt="GitHub"></a>
-  <a href="https://github.com/obinna-obika-devops?tab=repositories"><img src="https://img.shields.io/badge/Projects-Portfolio-2ea44f" alt="Projects"></a>
-  <a href="https://github.com/obinna-obika-devops/bilolo"><img src="https://img.shields.io/badge/Portfolio-Bilolo-0969da" alt="Portfolio"></a>
-  <a href="https://github.com/obinna-obika-devops/bilolo/blob/main/docs/resume.md"><img src="https://img.shields.io/badge/Resume-Cloud%20%26%20Infrastructure-6f42c1" alt="Resume"></a>
+  <a href="https://github.com/obinna-obika-devops?tab=repositories"><img src="https://img.shields.io/badge/Engineering-Projects-2ea44f" alt="Projects"></a>
+  <a href="https://github.com/obinna-obika-devops/bilolo/blob/main/docs/resume.md"><img src="https://img.shields.io/badge/Resume-View-6f42c1" alt="Resume"></a>
 </p>
 
-## About
+## Engineering Profile
 
-I build cloud and infrastructure engineering solutions around **automation, reliability, security, scalability, and operational excellence**.
+I focus on the intersection of **cloud infrastructure, DevOps, platform engineering, and site reliability engineering**: provisioning infrastructure safely, creating repeatable delivery paths, operating Kubernetes platforms, improving observability, and reducing operational toil through automation.
 
-My portfolio focuses on the full engineering lifecycle:
+**Core technologies:** Azure · AWS · Terraform · Kubernetes · Docker · Helm · GitHub Actions · Argo CD · Python · Bash · Prometheus · Grafana · OpenTelemetry
 
-- ☁️ **Cloud:** AWS, Azure, cloud architecture, networking, IAM
-- ⚙️ **Infrastructure as Code:** Terraform, reusable modules, environment management
-- 🚀 **DevOps:** CI/CD, GitOps, deployment automation, release workflows
-- ☸️ **Kubernetes:** platform engineering, workloads, RBAC, policies, reliability
-- 🛠️ **SRE:** SLOs, SLIs, error budgets, observability, incident response, DR
-- 🔐 **DevSecOps:** supply-chain security, SBOMs, image security, policy-as-code
-- 💰 **FinOps:** cost governance, allocation, forecasting, anomaly detection, rightsizing
-- 🌐 **Networking:** VPC architecture, segmentation, connectivity, DNS, security controls
-- 🤖 **Automation:** Python tooling, event-driven remediation, infrastructure operations
+**Engineering disciplines:** Infrastructure as Code · CI/CD · GitOps · SRE · Platform Engineering · Cloud Networking · IAM · DevSecOps · Disaster Recovery · Automation
 
-> **Engineering principle:** automate repeatable work, make failure observable, reduce blast radius, and design systems that are easier to operate.
+> **Operating principle:** automate repeatable work, make failure observable, reduce blast radius, and make changes repeatable and reversible.
 
-## Recruiter Snapshot
+## Flagship Engineering Projects
 
-**Target roles:** Cloud Engineer · Cloud Infrastructure Engineer · DevOps Engineer · SRE · Platform Engineer · Infrastructure Engineer · DevSecOps Engineer · Cloud Operations Engineer
-
-**Core stack:** AWS · Azure · Terraform · Kubernetes · Docker · Helm · GitHub Actions · GitOps · Python · Prometheus · Grafana · OpenTelemetry · Trivy · Gitleaks · Checkov · Kyverno · OPA/Rego
-
-**Engineering focus:** Infrastructure as Code · CI/CD · Platform Engineering · Reliability · Observability · Security · Cloud Networking · Automation · Disaster Recovery · FinOps
-
-👉 **[View recruiter-ready resume & project highlights](https://github.com/obinna-obika-devops/bilolo/blob/main/docs/resume.md)**
-
-## Featured Engineering Work
-
-### 🏗️ Cloud & Platform Engineering
-
-| Project | Focus |
+| Project | Engineering evidence |
 |---|---|
-| [cloud-platform-engineering](https://github.com/obinna-obika-devops/cloud-platform-engineering) | AWS, Kubernetes, Terraform, GitOps, self-service platform engineering |
-| [platform-engineering-portal](https://github.com/obinna-obika-devops/platform-engineering-portal) | Developer portal, service catalog, golden paths, self-service workflows |
-| [kubernetes-platform-operator](https://github.com/obinna-obika-devops/kubernetes-platform-operator) | Kubernetes operator patterns, reconciliation, CRDs, remediation |
+| [cloud-platform-engineering](https://github.com/obinna-obika-devops/cloud-platform-engineering) | Terraform modules, Kubernetes/EKS, Helm, CI/CD, GitOps, application tests, SLOs, incident response and disaster recovery |
+| [sre-reliability-engineering-lab](https://github.com/obinna-obika-devops/sre-reliability-engineering-lab) | Prometheus/Grafana, SLO thinking, alerting, chaos testing, Kubernetes reliability, automated remediation and runbooks |
+| [devsecops-supply-chain-security](https://github.com/obinna-obika-devops/devsecops-supply-chain-security) | Secure CI, SBOM/provenance, image controls, Kyverno, OPA/Rego, threat modeling and vulnerability management |
+| [infrastructure-gitops-engineering](https://github.com/obinna-obika-devops/infrastructure-gitops-engineering) | GitOps promotion, infrastructure validation, drift detection and policy gates |
+| [cloud-automation-engineering](https://github.com/obinna-obika-devops/cloud-automation-engineering) | Python automation, event-driven remediation and cloud operations patterns |
+| [platform-engineering-portal](https://github.com/obinna-obika-devops/platform-engineering-portal) | Developer self-service, service catalog concepts and golden-path platform workflows |
 
-### 🛡️ Reliability & Security
+## What I Demonstrate Here
 
-| Project | Focus |
-|---|---|
-| [sre-reliability-engineering-lab](https://github.com/obinna-obika-devops/sre-reliability-engineering-lab) | SLOs, observability, incident response, chaos engineering, DR |
-| [devsecops-supply-chain-security](https://github.com/obinna-obika-devops/devsecops-supply-chain-security) | SBOM, signing, provenance, vulnerability management, admission controls |
-| [cloud-zero-trust-security](https://github.com/obinna-obika-devops/cloud-zero-trust-security) | IAM, Zero Trust, Kubernetes security, network segmentation, policy-as-code |
+### Cloud & Infrastructure
+- Reusable Infrastructure as Code and environment patterns
+- Cloud networking, IAM and security boundaries
+- Kubernetes infrastructure and workload deployment
+- Resilience, recovery and operational readiness
 
-### ☁️ Infrastructure, Networking & Cloud Operations
+### Delivery & Platform Engineering
+- CI/CD pipelines with automated validation
+- GitOps-based change and promotion workflows
+- Helm-based Kubernetes packaging
+- Developer self-service and golden-path concepts
 
-| Project | Focus |
-|---|---|
-| [cloud-networking-engineering](https://github.com/obinna-obika-devops/cloud-networking-engineering) | VPC architecture, Terraform networking, segmentation, connectivity |
-| [infrastructure-gitops-engineering](https://github.com/obinna-obika-devops/infrastructure-gitops-engineering) | Infrastructure GitOps, drift detection, promotion, policy gates |
-| [cloud-automation-engineering](https://github.com/obinna-obika-devops/cloud-automation-engineering) | Event-driven automation, Python tooling, remediation, AWS operations |
-| [cloud-finops-cost-optimization](https://github.com/obinna-obika-devops/cloud-finops-cost-optimization) | Cost governance, forecasting, anomaly detection, rightsizing |
-| [cloud-migration-engineering](https://github.com/obinna-obika-devops/cloud-migration-engineering) | Discovery, dependency mapping, 6R assessment, migration planning |
-| [multi-cloud-platform-engineering](https://github.com/obinna-obika-devops/multi-cloud-platform-engineering) | AWS/Azure abstractions, platform architecture, cloud tradeoffs |
+### Reliability Engineering
+- SLOs, SLIs and error-budget thinking
+- Metrics, alerting and dashboard configuration
+- Incident-response and troubleshooting runbooks
+- Chaos testing and automated remediation patterns
 
-### 🧩 Portfolio Foundation
+### DevSecOps
+- Source, dependency, container and IaC security controls
+- Policy-as-code and Kubernetes admission controls
+- SBOM, provenance and software supply-chain practices
+- Threat modeling and vulnerability response
 
-[bilolo](https://github.com/obinna-obika-devops/bilolo) brings the broader engineering themes together into a coherent cloud and infrastructure portfolio.
-
-## Engineering Stack
-
-**Cloud**  
-AWS · Azure
-
-**Infrastructure**  
-Terraform · Kubernetes · Helm · Docker · Linux
-
-**DevOps & GitOps**  
-GitHub Actions · Argo CD · GitOps · CI/CD
-
-**Programming & Automation**  
-Python · Bash · YAML
-
-**Observability & SRE**  
-Prometheus · Grafana · OpenTelemetry · SLOs · Error Budgets · Incident Response
-
-**Security**  
-Trivy · Gitleaks · Checkov · Kyverno · OPA/Rego · Cosign · SBOM · Zero Trust
-
-**Operations**  
-Networking · IAM · Disaster Recovery · Chaos Engineering · FinOps · Cloud Automation
-
-## How I Approach Infrastructure
+## Architecture Mindset
 
 ```text
-                    ┌──────────────────────┐
-                    │      Developers      │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │   Developer Platform │
-                    │  Golden Paths / APIs │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │       GitHub         │
-                    │   Source / GitOps    │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │       CI/CD          │
-                    │ Test / Build / Scan  │
-                    └──────────┬───────────┘
-                               │
-                    ┌──────────▼───────────┐
-                    │      Terraform       │
-                    │ Infrastructure as    │
-                    │        Code          │
-                    └──────────┬───────────┘
-                               │
-                 ┌─────────────┴─────────────┐
-                 ▼                           ▼
-          ┌─────────────┐             ┌─────────────┐
-          │     AWS     │             │    Azure    │
-          └──────┬──────┘             └──────┬──────┘
-                 │                           │
-                 └─────────────┬─────────────┘
-                               ▼
-                    ┌──────────────────────┐
-                    │     Kubernetes       │
-                    │   Platform / Apps    │
-                    └──────────┬───────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-       ┌───────────┐     ┌───────────┐     ┌───────────┐
-       │Observability│   │ Security  │     │  FinOps   │
-       │ SRE / SLOs │   │  Policies  │     │ Efficiency │
-       └─────┬─────┘     └─────┬─────┘     └─────┬─────┘
-             └─────────────────┼─────────────────┘
-                               ▼
-                    ┌──────────────────────┐
-                    │ Automation &         │
-                    │ Automated Remediation│
-                    └──────────────────────┘
+Developer Change
+      │
+      ▼
+   GitHub
+      │
+      ▼
+CI: Test → Validate → Scan → Build
+      │
+      ├──────────────► Terraform / Cloud Infrastructure
+      │
+      ▼
+    GitOps
+      │
+      ▼
+ Kubernetes Platform
+      │
+ ┌────┼────────────┐
+ ▼    ▼            ▼
+SRE  Security   Observability
+ │     │            │
+ └─────┴─────┬──────┘
+             ▼
+     Automated Operations
 ```
 
-## What You'll Find in My Repositories
+## How to Review This Portfolio
 
-- Infrastructure-as-code and reusable Terraform patterns
-- Kubernetes platform and workload patterns
-- CI/CD and GitOps workflows
-- Security and supply-chain controls
-- SRE practices and operational runbooks
-- Network and cloud architecture references
-- FinOps and cloud efficiency automation
-- Migration planning and readiness tooling
-- Tests, validation, policy gates, and documentation
-- Architecture decisions and engineering tradeoffs
+For a quick technical review, start with **cloud-platform-engineering**. It brings together infrastructure, Kubernetes, delivery automation and operational practices. Then review **sre-reliability-engineering-lab** for reliability engineering and **devsecops-supply-chain-security** for security engineering.
 
-These repositories are **portfolio/reference implementations** designed to demonstrate engineering practices and architecture. They do not represent claims of production deployment or customer environments unless explicitly stated in a repository.
+Each repository is intended to make the engineering decisions inspectable through code, configuration, documentation, tests and operational artifacts—not just technology lists.
 
-## Engineering Mindset
+## Additional Engineering Work
 
-```text
-Reliability       → Design for failure
-Automation        → Eliminate repetitive toil
-Security          → Reduce blast radius
-Observability     → Know what the system is doing
-Infrastructure    → Treat it as code
-Delivery          → Make changes repeatable and reversible
-Operations        → Document, measure, improve
-Cost              → Engineer for efficiency
-```
+- [cloud-networking-engineering](https://github.com/obinna-obika-devops/cloud-networking-engineering) — networking, segmentation and connectivity
+- [cloud-zero-trust-security](https://github.com/obinna-obika-devops/cloud-zero-trust-security) — IAM, Zero Trust and policy-as-code
+- [cloud-finops-cost-optimization](https://github.com/obinna-obika-devops/cloud-finops-cost-optimization) — cost governance and optimization
+- [cloud-migration-engineering](https://github.com/obinna-obika-devops/cloud-migration-engineering) — migration discovery and planning
+- [multi-cloud-platform-engineering](https://github.com/obinna-obika-devops/multi-cloud-platform-engineering) — Azure/AWS platform tradeoffs
+- [kubernetes-platform-operator](https://github.com/obinna-obika-devops/kubernetes-platform-operator) — Kubernetes operator and reconciliation patterns
 
-## Currently Building Toward
+## Portfolio Scope
 
-- More advanced internal developer platform capabilities
-- Deeper Kubernetes automation and operator patterns
-- Multi-cloud infrastructure abstractions
-- Production-oriented SRE and reliability practices
-- Secure software supply-chain automation
-- Cloud networking and infrastructure operations
-- Automated cloud governance and remediation
+These repositories are **portfolio/reference implementations** demonstrating engineering practices and architecture. They should not be interpreted as claims that every example is currently running in a customer or production environment unless a repository explicitly states that it is deployed.
 
 ## Connect
 
@@ -203,6 +115,4 @@ Cost              → Engineer for efficiency
 
 ---
 
-<p align="center">
-  <strong>Cloud Infrastructure · DevOps · SRE · Platform Engineering · DevSecOps</strong>
-</p>
+<p align="center"><strong>DevOps · Cloud Infrastructure · Platform Engineering · Site Reliability Engineering</strong></p>
