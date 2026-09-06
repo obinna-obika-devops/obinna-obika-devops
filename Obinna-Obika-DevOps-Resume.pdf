@@ -1,0 +1,213 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 2721 >>
+stream
+BT
+/F1 9 Tf
+48 750 Td
+12 TL
+/F1 16 Tf
+(OBINNA OBIKA) Tj
+/F1 9 Tf
+T*
+(Senior Cloud & DevOps Engineer | Site Reliability Engineer | Cloud Solutions Architect) Tj
+T*
+() Tj
+T*
+/F1 11 Tf
+(CONTACT) Tj
+/F1 9 Tf
+T*
+(Mobile: \(312\) 771-0557) Tj
+T*
+(Email: bilolo74@gmail.com) Tj
+T*
+(LinkedIn: linkedin.com/in/obinna-obika-devops) Tj
+T*
+(Location: Coconut Creek, FL USA) Tj
+T*
+() Tj
+T*
+/F1 11 Tf
+(PROFESSIONAL SUMMARY) Tj
+/F1 9 Tf
+T*
+(Senior Cloud & DevOps Engineer with 7+ years of experience designing, automating, deploying,) Tj
+T*
+(and managing scalable cloud infrastructure across AWS, Microsoft Azure, and Google Cloud) Tj
+T*
+(Platform.) Tj
+T*
+(Experienced in cloud architecture, Infrastructure as Code, CI/CD automation, Kubernetes,) Tj
+T*
+(DevSecOps, platform engineering, and Site Reliability Engineering.) Tj
+T*
+() Tj
+T*
+/F1 11 Tf
+(TECHNICAL SKILLS) Tj
+/F1 9 Tf
+T*
+(Cloud: AWS, Microsoft Azure, Google Cloud Platform \(GCP\)) Tj
+T*
+(AWS: EC2, S3, Lambda, ECS, EKS, IAM, VPC, CloudFormation, CloudWatch, Route 53, Load Balancing) Tj
+T*
+(Azure: Virtual Machines, Storage, AKS, Functions, Web Apps, ACR, Monitor, Azure DevOps) Tj
+T*
+(GCP: Compute Engine, Cloud Storage, Cloud SQL, BigQuery, GKE, Cloud Functions, Pub/Sub) Tj
+T*
+(Infrastructure as Code: Terraform, CloudFormation, ARM Templates, Azure Bicep) Tj
+T*
+(Containers: Kubernetes, Docker, Helm, AKS, EKS, GKE) Tj
+T*
+(CI/CD: Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps Pipelines, Bitbucket, Argo CD,) Tj
+T*
+(GitOps) Tj
+T*
+(Observability: Prometheus, Grafana, Loki, Splunk, CloudWatch, Azure Monitor, ELK Stack) Tj
+T*
+(Automation: Python, Bash, Shell Scripting, PowerShell, Ansible) Tj
+T*
+(Security: IAM, RBAC, Secrets Management, OAuth2, JWT, mTLS, OWASP Top 10, SonarQube) Tj
+T*
+(AI & Automation: LLM workflows, RAG pipelines, MCP, n8n Agents, CrewAI, MLOps concepts) Tj
+T*
+() Tj
+T*
+/F1 11 Tf
+(CERTIFICATIONS) Tj
+/F1 9 Tf
+T*
+(Microsoft Certified: DevOps Engineer Expert \(AZ-400\)) Tj
+T*
+(Microsoft Certified: Azure Administrator Associate \(AZ-104\)) Tj
+T*
+(AWS Certified Solutions Architect - Associate) Tj
+T*
+() Tj
+T*
+/F1 11 Tf
+(PROFESSIONAL EXPERIENCE) Tj
+/F1 9 Tf
+T*
+(Senior DevOps Engineer | Nelox International | Miami, FL | September 2024 - Present) Tj
+T*
+(- Design, automate, and manage AWS and Azure infrastructure for development, test, and) Tj
+T*
+(production.) Tj
+T*
+(- Build CI/CD pipelines with GitHub Actions, Jenkins, GitLab CI/CD, and Azure DevOps.) Tj
+T*
+(- Develop Infrastructure as Code with Terraform, ARM Templates, and Bicep.) Tj
+T*
+(- Manage Kubernetes workloads, scaling, troubleshooting, and container lifecycle operations.) Tj
+T*
+(- Implement GitOps workflows with Argo CD and observability with Prometheus and Grafana.) Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 2145 >>
+stream
+BT
+/F1 9 Tf
+48 750 Td
+12 TL
+(- Build AI-assisted DevOps automation using LLM solutions, MCP, CrewAI, and intelligent) Tj
+T*
+(tooling.) Tj
+T*
+() Tj
+T*
+(Cloud Solutions Architect | Hertz Inc. | Fort Lauderdale, FL | May 2023 - August 2024) Tj
+T*
+(- Designed scalable AWS and Azure architectures supporting enterprise applications.) Tj
+T*
+(- Automated infrastructure provisioning with Terraform and cloud-native Infrastructure as Code.) Tj
+T*
+(- Designed Kubernetes platforms using Docker, Helm, and container orchestration practices.) Tj
+T*
+(- Built and improved CI/CD pipelines using Jenkins, GitHub Actions, and Azure DevOps.) Tj
+T*
+(- Implemented monitoring and logging with Prometheus, Grafana, CloudWatch, and Azure Monitor.) Tj
+T*
+(- Supported cloud migration, secure networking, high availability, and disaster recovery.) Tj
+T*
+() Tj
+T*
+(Cloud Operations Engineer | Venture Forwarding Inc. | Miami, FL | August 2018 - April 2023) Tj
+T*
+(- Designed and maintained AWS resources including EC2, S3, VPC, IAM, Route 53, and load) Tj
+T*
+(balancing.) Tj
+T*
+(- Automated infrastructure deployment and configuration management using Terraform.) Tj
+T*
+(- Managed Docker containers and Kubernetes workloads for reliable application delivery.) Tj
+T*
+(- Built CI/CD automation pipelines and Python/Bash scripts for operational efficiency.) Tj
+T*
+(- Implemented monitoring and logging solutions using CloudWatch, Grafana, and Splunk.) Tj
+T*
+() Tj
+T*
+/F1 11 Tf
+(SELECTED PROJECT EXPERIENCE) Tj
+/F1 9 Tf
+T*
+(Cloud Infrastructure Automation - reusable Terraform components for consistent provisioning.) Tj
+T*
+(CI/CD Pipeline Engineering - automated build, test, security scanning, and deployment) Tj
+T*
+(workflows.) Tj
+T*
+(Kubernetes Platform Engineering - scaling, deployment automation, troubleshooting, and) Tj
+T*
+(reliability.) Tj
+T*
+(AI-Enabled DevOps Automation - LLM, MCP, n8n, CrewAI, and RAG workflows for operations.) Tj
+T*
+() Tj
+T*
+/F1 11 Tf
+(EDUCATION) Tj
+/F1 9 Tf
+T*
+(Associate of Science \(A.S.\) in Applied Technology - Universal Technical Institute, Miramar, FL) Tj
+T*
+(Bachelor of Arts \(B.A.\) - Lagos State University, Nigeria) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+0000003089 00000 n 
+0000003215 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+5411
+%%EOF
