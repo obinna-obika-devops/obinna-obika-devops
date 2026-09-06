@@ -27,18 +27,19 @@ I focus on the intersection of **cloud infrastructure, DevOps, platform engineer
 
 | Project | Engineering evidence |
 |---|---|
+| [multi-cloud-platform-engineering](https://github.com/obinna-obika-devops/multi-cloud-platform-engineering) | Azure-first AKS platform track with Terraform, VNet/subnet, ACR, Log Analytics, Azure RBAC, workload identity/OIDC and CI validation, plus explicit AWS portability |
 | [cloud-platform-engineering](https://github.com/obinna-obika-devops/cloud-platform-engineering) | Terraform modules, Kubernetes/EKS, Helm, CI/CD, GitOps, application tests, SLOs, incident response and disaster recovery |
 | [sre-reliability-engineering-lab](https://github.com/obinna-obika-devops/sre-reliability-engineering-lab) | Prometheus/Grafana, SLO thinking, alerting, chaos testing, Kubernetes reliability, automated remediation and runbooks |
 | [devsecops-supply-chain-security](https://github.com/obinna-obika-devops/devsecops-supply-chain-security) | Secure CI, SBOM/provenance, image controls, Kyverno, OPA/Rego, threat modeling and vulnerability management |
 | [infrastructure-gitops-engineering](https://github.com/obinna-obika-devops/infrastructure-gitops-engineering) | GitOps promotion, infrastructure validation, drift detection and policy gates |
-| [cloud-automation-engineering](https://github.com/obinna-obika-devops/cloud-automation-engineering) | Python automation, event-driven remediation and cloud operations patterns |
 | [platform-engineering-portal](https://github.com/obinna-obika-devops/platform-engineering-portal) | Developer self-service, service catalog concepts and golden-path platform workflows |
 
 ## What I Demonstrate Here
 
 ### Cloud & Infrastructure
+- Azure AKS platform foundations with Terraform
 - Reusable Infrastructure as Code and environment patterns
-- Cloud networking, IAM and security boundaries
+- Cloud networking, IAM/RBAC and security boundaries
 - Kubernetes infrastructure and workload deployment
 - Resilience, recovery and operational readiness
 
@@ -90,17 +91,17 @@ SRE  Security   Observability
 
 ## How to Review This Portfolio
 
-For a quick technical review, start with **cloud-platform-engineering**. It brings together infrastructure, Kubernetes, delivery automation and operational practices. Then review **sre-reliability-engineering-lab** for reliability engineering and **devsecops-supply-chain-security** for security engineering.
+For an Azure-focused review, start with **multi-cloud-platform-engineering** and inspect the `terraform/azure/` implementation and Azure architecture documentation. For a broader platform-engineering review, continue with **cloud-platform-engineering**. Then review **sre-reliability-engineering-lab** for reliability engineering and **devsecops-supply-chain-security** for security engineering.
 
 Each repository is intended to make the engineering decisions inspectable through code, configuration, documentation, tests and operational artifacts—not just technology lists.
 
 ## Additional Engineering Work
 
+- [cloud-automation-engineering](https://github.com/obinna-obika-devops/cloud-automation-engineering) — Python automation, event-driven remediation and cloud operations
 - [cloud-networking-engineering](https://github.com/obinna-obika-devops/cloud-networking-engineering) — networking, segmentation and connectivity
 - [cloud-zero-trust-security](https://github.com/obinna-obika-devops/cloud-zero-trust-security) — IAM, Zero Trust and policy-as-code
 - [cloud-finops-cost-optimization](https://github.com/obinna-obika-devops/cloud-finops-cost-optimization) — cost governance and optimization
 - [cloud-migration-engineering](https://github.com/obinna-obika-devops/cloud-migration-engineering) — migration discovery and planning
-- [multi-cloud-platform-engineering](https://github.com/obinna-obika-devops/multi-cloud-platform-engineering) — Azure/AWS platform tradeoffs
 - [kubernetes-platform-operator](https://github.com/obinna-obika-devops/kubernetes-platform-operator) — Kubernetes operator and reconciliation patterns
 
 ## Portfolio Scope
