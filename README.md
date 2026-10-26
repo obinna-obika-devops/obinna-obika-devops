@@ -1,8 +1,8 @@
 # Obinna Obika
 
-### DevOps Engineer · Site Reliability Engineer · Platform Engineer · Cloud & Infrastructure Engineer
+### MLOps Engineer · LLMOps & Agentic AI Engineer · DevOps & Platform Engineer
 
-I build and automate cloud platforms with a focus on **reliability, security, observability, repeatability, and developer experience**. My engineering work spans Infrastructure as Code, Kubernetes, CI/CD, GitOps, cloud operations, platform automation, and SRE practices.
+I build and automate cloud platforms with a focus on **reliability, security, observability, repeatability, and developer experience**. My engineering work spans Infrastructure as Code, Kubernetes, CI/CD, GitOps, cloud operations, platform automation, and SRE practices. I also bring MLOps and LLMOps experience across model lifecycle management, RAG, evaluation and agentic workflows.
 
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonwebservices" alt="AWS">
@@ -17,6 +17,8 @@ I build and automate cloud platforms with a focus on **reliability, security, ob
 
 | Domain | Technologies & Practices |
 |---|---|
+| **MLOps** | MLflow · Amazon SageMaker · Experiment Tracking · Model Registries · Model Deployment & Monitoring |
+| **LLMOps & Agentic AI** | RAG · Embeddings & Vector Search · Prompt Evaluation · MCP · n8n · OpenAI · Anthropic Claude · Gemini · Vertex AI |
 | **Cloud** | AWS · Microsoft Azure · Google Cloud Platform |
 | **Infrastructure** | Terraform · Kubernetes · Docker · Helm · Linux |
 | **CI/CD & GitOps** | GitHub Actions · Jenkins · Argo CD · GitOps |
@@ -25,6 +27,16 @@ I build and automate cloud platforms with a focus on **reliability, security, ob
 | **Reliability** | SLOs · Error Budgets · Incident Response · DR · Automated Remediation |
 | **Security** | IAM · RBAC · Policy as Code · DevSecOps · Supply Chain Security |
 | **Platform Engineering** | Internal Developer Platforms · Golden Paths · Self-Service Infrastructure |
+
+## AI Portfolio Roadmap — Proposed Projects
+
+These proposals reflect the MLOps and LLMOps skills in my resumes. They are **planned portfolio work**, with no completed implementation, production deployment or benchmark results claimed here.
+
+- **MLOps model delivery lab:** propose a Python model workflow with MLflow experiment tracking and registry, a SageMaker deployment option, CI evaluation gates, versioned artifacts, monitoring and rollback. Completion evidence should include runnable code, reproducible data, test results and a deployment guide.
+- **RAG evaluation and delivery lab:** propose document ingestion, embeddings and retrieval, cited responses, a versioned evaluation dataset, and quality/latency/cost checks before release. Completion evidence should include the application, evaluation reports and documented failure cases.
+- **Agentic operations lab:** propose an MCP or n8n workflow with allowlisted tools, human approval for infrastructure changes, audit logs and recovery behavior. Completion evidence should include a runnable workflow and tests for denied actions and partial failures.
+
+Professional AI experience described in my resumes is separate from these public portfolio proposals. Existing repositories below provide inspectable DevOps, platform and reliability reference work.
 
 ## Featured Engineering Projects
 
@@ -102,4 +114,6 @@ These repositories are engineering reference implementations and labs. Each proj
 ---
 
 ### Obinna Obika
-**DevOps · SRE · Platform Engineering · Cloud & Infrastructure Engineering**
+**MLOps · LLMOps · Agentic AI · DevOps · SRE · Platform & Cloud Engineering**
+
+[Portfolio](https://obinna-obika-devops.github.io/obinna-obika-devops/) · [Case studies](https://case-studies.bilolomedia.com)
